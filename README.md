@@ -10,7 +10,7 @@ The course covers fundamental concepts of computer programming, Python syntax, d
 
 ##  Verified Credential
 * **Credential URL:** [Verify on Credly](https://www.credly.com/badges/83cb7ae6-b051-462f-b302-e7e07f6a899f/public_url)
-* **PDF Proof:** [View Course Certificate](./credentials/your-certificate-file.pdf) *(Replace with your exact file path)*
+* **PDF Proof:** Uploaded.
 
 
 ---
